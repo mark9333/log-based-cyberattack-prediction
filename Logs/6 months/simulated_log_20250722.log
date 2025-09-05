@@ -1,0 +1,234 @@
+2025-07-22 00:02:06 - [INFO] config updated
+2025-07-22 00:13:31 - [INFO] file downloaded
+2025-07-22 00:19:59 - [INFO] file uploaded
+2025-07-22 00:20:18 - [INFO] user login
+2025-07-22 00:29:51 - [WARNING] Suspicious activity detected: intrusion
+2025-07-22 00:33:04 - [INFO] file downloaded
+2025-07-22 00:38:57 - [INFO] user login
+2025-07-22 00:53:35 - [INFO] system check passed
+2025-07-22 00:53:38 - [INFO] user login
+2025-07-22 00:56:42 - [INFO] backup completed
+2025-07-22 00:59:40 - [WARNING] Suspicious activity detected: brute_force
+2025-07-22 01:02:32 - [INFO] file uploaded
+2025-07-22 01:09:14 - [WARNING] Suspicious activity detected: ip_blocked
+2025-07-22 01:16:16 - [INFO] file downloaded
+2025-07-22 01:34:07 - [WARNING] Suspicious activity detected: brute_force
+2025-07-22 01:58:47 - [WARNING] Suspicious activity detected: ddos
+2025-07-22 02:17:38 - [INFO] backup completed
+2025-07-22 02:20:31 - [WARNING] Suspicious activity detected: brute_force
+2025-07-22 02:20:49 - [WARNING] Suspicious activity detected: brute_force
+2025-07-22 02:30:55 - [WARNING] Suspicious activity detected: ddos
+2025-07-22 02:32:40 - [WARNING] Suspicious activity detected: sql_injection
+2025-07-22 02:33:22 - [INFO] user login
+2025-07-22 02:40:13 - [INFO] backup completed
+2025-07-22 02:41:31 - [WARNING] Suspicious activity detected: intrusion
+2025-07-22 02:52:24 - [WARNING] Suspicious activity detected: unauthorized_access
+2025-07-22 02:55:54 - [WARNING] Suspicious activity detected: ip_blocked
+2025-07-22 03:07:51 - [INFO] email sent
+2025-07-22 03:29:16 - [WARNING] Suspicious activity detected: port_scan
+2025-07-22 03:37:11 - [INFO] user login
+2025-07-22 03:42:13 - [INFO] file downloaded
+2025-07-22 03:42:54 - [INFO] config updated
+2025-07-22 03:46:11 - [INFO] file uploaded
+2025-07-22 03:50:03 - [INFO] backup completed
+2025-07-22 03:50:10 - [WARNING] Suspicious activity detected: ddos
+2025-07-22 03:59:49 - [INFO] system check passed
+2025-07-22 04:15:43 - [WARNING] Suspicious activity detected: ip_blocked
+2025-07-22 04:17:22 - [INFO] user login
+2025-07-22 04:18:46 - [WARNING] Suspicious activity detected: malware
+2025-07-22 04:20:35 - [INFO] user login
+2025-07-22 04:40:36 - [INFO] config updated
+2025-07-22 04:45:14 - [WARNING] Suspicious activity detected: unauthorized_access
+2025-07-22 04:49:00 - [WARNING] Suspicious activity detected: ip_blocked
+2025-07-22 04:50:09 - [INFO] email sent
+2025-07-22 04:51:15 - [INFO] user login
+2025-07-22 05:02:17 - [WARNING] Suspicious activity detected: ddos
+2025-07-22 05:07:29 - [INFO] backup completed
+2025-07-22 05:14:01 - [INFO] file uploaded
+2025-07-22 05:18:02 - [INFO] system check passed
+2025-07-22 05:25:34 - [WARNING] Suspicious activity detected: ddos
+2025-07-22 05:32:12 - [INFO] backup completed
+2025-07-22 05:38:32 - [WARNING] Suspicious activity detected: malware
+2025-07-22 05:42:25 - [INFO] file uploaded
+2025-07-22 05:45:21 - [INFO] backup completed
+2025-07-22 06:14:03 - [INFO] system check passed
+2025-07-22 06:22:33 - [WARNING] Suspicious activity detected: brute_force
+2025-07-22 06:31:08 - [WARNING] Suspicious activity detected: ddos
+2025-07-22 06:31:14 - [INFO] system check passed
+2025-07-22 06:46:44 - [INFO] file uploaded
+2025-07-22 06:49:56 - [INFO] config updated
+2025-07-22 06:53:59 - [INFO] file uploaded
+2025-07-22 07:00:07 - [INFO] config updated
+2025-07-22 07:00:41 - [WARNING] Suspicious activity detected: sql_injection
+2025-07-22 07:03:22 - [INFO] file downloaded
+2025-07-22 07:06:34 - [INFO] system check passed
+2025-07-22 07:18:57 - [INFO] user login
+2025-07-22 07:26:40 - [INFO] backup completed
+2025-07-22 07:31:17 - [WARNING] Suspicious activity detected: brute_force
+2025-07-22 07:35:08 - [INFO] system check passed
+2025-07-22 07:49:28 - [INFO] user login
+2025-07-22 08:02:42 - [WARNING] Suspicious activity detected: ddos
+2025-07-22 08:02:47 - [WARNING] Suspicious activity detected: unauthorized_access
+2025-07-22 08:05:55 - [INFO] system check passed
+2025-07-22 08:09:11 - [INFO] user login
+2025-07-22 08:17:08 - [WARNING] Suspicious activity detected: brute_force
+2025-07-22 08:22:55 - [INFO] config updated
+2025-07-22 08:28:39 - [WARNING] Suspicious activity detected: port_scan
+2025-07-22 08:34:19 - [INFO] email sent
+2025-07-22 08:35:10 - [INFO] backup completed
+2025-07-22 08:38:34 - [INFO] file uploaded
+2025-07-22 08:43:19 - [INFO] config updated
+2025-07-22 08:45:26 - [INFO] file downloaded
+2025-07-22 08:48:57 - [WARNING] Suspicious activity detected: malware
+2025-07-22 08:49:22 - [INFO] config updated
+2025-07-22 08:55:07 - [INFO] config updated
+2025-07-22 08:59:02 - [WARNING] Suspicious activity detected: port_scan
+2025-07-22 08:59:04 - [WARNING] Suspicious activity detected: sql_injection
+2025-07-22 09:15:24 - [WARNING] Suspicious activity detected: malware
+2025-07-22 09:15:38 - [WARNING] Suspicious activity detected: brute_force
+2025-07-22 09:16:18 - [INFO] file uploaded
+2025-07-22 09:16:26 - [INFO] backup completed
+2025-07-22 09:20:04 - [WARNING] Suspicious activity detected: malware
+2025-07-22 09:24:14 - [INFO] email sent
+2025-07-22 09:28:13 - [WARNING] Suspicious activity detected: sql_injection
+2025-07-22 09:28:32 - [INFO] system check passed
+2025-07-22 09:29:58 - [WARNING] Suspicious activity detected: sql_injection
+2025-07-22 09:34:56 - [INFO] user login
+2025-07-22 09:38:39 - [INFO] email sent
+2025-07-22 09:40:12 - [INFO] system check passed
+2025-07-22 09:55:39 - [INFO] config updated
+2025-07-22 09:57:07 - [INFO] user login
+2025-07-22 09:58:23 - [INFO] user login
+2025-07-22 10:18:23 - [INFO] system check passed
+2025-07-22 10:21:12 - [WARNING] Suspicious activity detected: ddos
+2025-07-22 10:24:06 - [INFO] user login
+2025-07-22 10:27:05 - [INFO] email sent
+2025-07-22 10:51:56 - [WARNING] Suspicious activity detected: intrusion
+2025-07-22 10:59:57 - [WARNING] Suspicious activity detected: ddos
+2025-07-22 11:03:08 - [INFO] file downloaded
+2025-07-22 11:12:53 - [WARNING] Suspicious activity detected: malware
+2025-07-22 11:31:45 - [INFO] email sent
+2025-07-22 11:41:15 - [WARNING] Suspicious activity detected: ddos
+2025-07-22 11:41:17 - [INFO] config updated
+2025-07-22 11:48:41 - [WARNING] Suspicious activity detected: sql_injection
+2025-07-22 11:49:13 - [WARNING] Suspicious activity detected: port_scan
+2025-07-22 11:53:27 - [INFO] file downloaded
+2025-07-22 12:08:43 - [INFO] email sent
+2025-07-22 12:10:56 - [INFO] file uploaded
+2025-07-22 12:12:29 - [WARNING] Suspicious activity detected: ddos
+2025-07-22 12:19:14 - [WARNING] Suspicious activity detected: ip_blocked
+2025-07-22 12:30:48 - [INFO] system check passed
+2025-07-22 12:35:47 - [INFO] email sent
+2025-07-22 12:37:13 - [WARNING] Suspicious activity detected: ip_blocked
+2025-07-22 12:40:54 - [WARNING] Suspicious activity detected: ip_blocked
+2025-07-22 12:44:47 - [INFO] user login
+2025-07-22 12:50:38 - [INFO] email sent
+2025-07-22 12:54:19 - [INFO] file uploaded
+2025-07-22 13:01:06 - [INFO] file downloaded
+2025-07-22 13:06:07 - [WARNING] Suspicious activity detected: ddos
+2025-07-22 13:24:21 - [INFO] system check passed
+2025-07-22 13:46:36 - [WARNING] Suspicious activity detected: ip_blocked
+2025-07-22 13:51:44 - [WARNING] Suspicious activity detected: sql_injection
+2025-07-22 14:01:50 - [WARNING] Suspicious activity detected: brute_force
+2025-07-22 14:03:05 - [INFO] system check passed
+2025-07-22 14:04:21 - [INFO] system check passed
+2025-07-22 14:05:03 - [WARNING] Suspicious activity detected: ddos
+2025-07-22 14:16:24 - [INFO] system check passed
+2025-07-22 14:23:04 - [WARNING] Suspicious activity detected: ip_blocked
+2025-07-22 14:30:41 - [INFO] file uploaded
+2025-07-22 14:31:15 - [WARNING] Suspicious activity detected: brute_force
+2025-07-22 14:49:56 - [INFO] user login
+2025-07-22 15:00:07 - [INFO] email sent
+2025-07-22 15:03:44 - [INFO] backup completed
+2025-07-22 15:07:03 - [INFO] email sent
+2025-07-22 15:08:09 - [WARNING] Suspicious activity detected: ddos
+2025-07-22 15:09:14 - [WARNING] Suspicious activity detected: port_scan
+2025-07-22 15:12:17 - [INFO] system check passed
+2025-07-22 15:20:23 - [WARNING] Suspicious activity detected: sql_injection
+2025-07-22 15:21:40 - [WARNING] Suspicious activity detected: intrusion
+2025-07-22 15:36:58 - [WARNING] Suspicious activity detected: ip_blocked
+2025-07-22 15:37:59 - [WARNING] Suspicious activity detected: ddos
+2025-07-22 15:41:18 - [INFO] email sent
+2025-07-22 15:52:02 - [WARNING] Suspicious activity detected: malware
+2025-07-22 15:56:57 - [INFO] backup completed
+2025-07-22 15:58:33 - [INFO] user login
+2025-07-22 15:58:37 - [INFO] system check passed
+2025-07-22 16:03:37 - [INFO] file downloaded
+2025-07-22 16:03:39 - [WARNING] Suspicious activity detected: malware
+2025-07-22 16:04:35 - [WARNING] Suspicious activity detected: port_scan
+2025-07-22 16:17:18 - [INFO] file downloaded
+2025-07-22 16:20:07 - [INFO] file uploaded
+2025-07-22 16:30:45 - [INFO] file uploaded
+2025-07-22 16:36:01 - [WARNING] Suspicious activity detected: sql_injection
+2025-07-22 16:39:11 - [INFO] config updated
+2025-07-22 16:46:55 - [INFO] config updated
+2025-07-22 16:55:20 - [WARNING] Suspicious activity detected: sql_injection
+2025-07-22 17:09:51 - [INFO] config updated
+2025-07-22 17:14:01 - [WARNING] Suspicious activity detected: sql_injection
+2025-07-22 17:17:17 - [WARNING] Suspicious activity detected: malware
+2025-07-22 17:20:21 - [WARNING] Suspicious activity detected: intrusion
+2025-07-22 17:28:04 - [WARNING] Suspicious activity detected: port_scan
+2025-07-22 17:54:42 - [INFO] config updated
+2025-07-22 18:02:45 - [WARNING] Suspicious activity detected: brute_force
+2025-07-22 18:04:11 - [INFO] file uploaded
+2025-07-22 18:06:47 - [WARNING] Suspicious activity detected: sql_injection
+2025-07-22 18:18:01 - [INFO] email sent
+2025-07-22 18:19:01 - [INFO] system check passed
+2025-07-22 18:29:11 - [INFO] email sent
+2025-07-22 18:41:19 - [WARNING] Suspicious activity detected: ip_blocked
+2025-07-22 18:42:13 - [WARNING] Suspicious activity detected: brute_force
+2025-07-22 18:43:31 - [WARNING] Suspicious activity detected: malware
+2025-07-22 18:45:10 - [INFO] user login
+2025-07-22 18:54:41 - [INFO] backup completed
+2025-07-22 18:59:14 - [WARNING] Suspicious activity detected: intrusion
+2025-07-22 19:04:28 - [INFO] file uploaded
+2025-07-22 19:05:11 - [INFO] system check passed
+2025-07-22 19:08:32 - [INFO] file downloaded
+2025-07-22 19:09:00 - [INFO] user login
+2025-07-22 19:26:50 - [INFO] file uploaded
+2025-07-22 19:27:08 - [WARNING] Suspicious activity detected: ddos
+2025-07-22 19:27:57 - [INFO] config updated
+2025-07-22 19:43:26 - [INFO] user login
+2025-07-22 19:44:14 - [INFO] file uploaded
+2025-07-22 19:47:26 - [INFO] email sent
+2025-07-22 19:55:21 - [WARNING] Suspicious activity detected: port_scan
+2025-07-22 19:59:11 - [WARNING] Suspicious activity detected: intrusion
+2025-07-22 20:04:23 - [INFO] system check passed
+2025-07-22 20:05:23 - [INFO] file downloaded
+2025-07-22 20:15:46 - [INFO] email sent
+2025-07-22 20:19:18 - [INFO] file downloaded
+2025-07-22 20:31:22 - [WARNING] Suspicious activity detected: brute_force
+2025-07-22 20:34:30 - [INFO] user login
+2025-07-22 20:34:41 - [WARNING] Suspicious activity detected: intrusion
+2025-07-22 20:42:21 - [WARNING] Suspicious activity detected: ddos
+2025-07-22 20:42:55 - [INFO] config updated
+2025-07-22 20:44:14 - [INFO] email sent
+2025-07-22 20:48:13 - [WARNING] Suspicious activity detected: ip_blocked
+2025-07-22 20:57:18 - [INFO] file downloaded
+2025-07-22 20:58:29 - [WARNING] Suspicious activity detected: port_scan
+2025-07-22 20:59:14 - [INFO] system check passed
+2025-07-22 21:00:14 - [INFO] email sent
+2025-07-22 21:02:17 - [INFO] config updated
+2025-07-22 21:06:00 - [INFO] system check passed
+2025-07-22 21:08:07 - [WARNING] Suspicious activity detected: unauthorized_access
+2025-07-22 21:16:43 - [INFO] file uploaded
+2025-07-22 21:30:48 - [INFO] user login
+2025-07-22 21:49:10 - [WARNING] Suspicious activity detected: sql_injection
+2025-07-22 21:50:40 - [INFO] file uploaded
+2025-07-22 21:52:59 - [WARNING] Suspicious activity detected: malware
+2025-07-22 21:55:41 - [WARNING] Suspicious activity detected: sql_injection
+2025-07-22 21:57:56 - [INFO] file uploaded
+2025-07-22 21:58:28 - [INFO] email sent
+2025-07-22 22:03:24 - [INFO] email sent
+2025-07-22 22:17:15 - [INFO] user login
+2025-07-22 22:26:43 - [WARNING] Suspicious activity detected: brute_force
+2025-07-22 22:28:58 - [WARNING] Suspicious activity detected: ddos
+2025-07-22 22:38:52 - [INFO] config updated
+2025-07-22 23:06:51 - [INFO] system check passed
+2025-07-22 23:19:00 - [INFO] user login
+2025-07-22 23:21:18 - [INFO] config updated
+2025-07-22 23:26:49 - [INFO] backup completed
+2025-07-22 23:37:38 - [INFO] config updated
+2025-07-22 23:37:38 - [INFO] file downloaded
+2025-07-22 23:49:59 - [INFO] system check passed
+2025-07-22 23:56:23 - [WARNING] Suspicious activity detected: port_scan
